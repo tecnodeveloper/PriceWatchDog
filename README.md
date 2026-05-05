@@ -1,1 +1,4 @@
-# PriceWatchDog
+# Price WatchDog: Autonomous Multi-Platform E-Commerence Agent
+
+## Project IDea
+- First User gave our agent single product name, single website link and minimum Price he wanna set for trigger. Then our Chatbot check the provide URL website is live not 404. Then we use library called playwright to extract the semantics of webpage while ignoring sidebars and advertisement information. Then Chatbot checks that item is not out of stocks and item has not multiple variants. if item has multiple variants then asks the user which variant he want to select for price watching and if the product is out of stock then Show message to user that product is out of stocks. Then we extract price, currency and product name, Extracted messy html extracted converted into markdown by using tool called turnDown. if the price drops at the user level price then we give him notification + Email. Else we do scrapping after every 15min.
