@@ -1,10 +1,8 @@
-
 ## Tools
 
 - Requests
 - Seleniam
-- pandas 
-
+- pandas
 
 ## Scrapping Data allowed
 
@@ -12,7 +10,6 @@
 - Use throttling
 - Respect robot.txt
 - Use source-header reading
-
 
 ## Is web Scrapping is Legal ?
 
