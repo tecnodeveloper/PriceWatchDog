@@ -6,5 +6,5 @@
 
 ## Links
 
-[Real Python blog](https://realpython.com/beautiful-soup-web-scraper-python/)
-[Scrapping website](https://realpython.github.io/fake-jobs/)
+- [Real Python blog](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Scrapping website](https://realpython.github.io/fake-jobs/)
